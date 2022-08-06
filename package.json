@@ -1,5 +1,5 @@
 {
-  "name": "vanta",
+  "name": "better-vanta",
   "version": "0.5.22",
   "description": "3D animated backgrounds for your website",
   "main": "src/_base.js",
